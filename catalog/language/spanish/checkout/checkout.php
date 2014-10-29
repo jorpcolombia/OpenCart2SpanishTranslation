@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']                  = 'Checkout';
+$_['heading_title']                  = 'Pago';
 
 // Text
-$_['text_cart']                      = 'Shopping Cart';
-$_['text_checkout_option']           = 'Step 1: Checkout Options';
-$_['text_checkout_account']          = 'Step 2: Account &amp; Billing Details';
-$_['text_checkout_payment_address']  = 'Step 2: Billing Details';
-$_['text_checkout_shipping_address'] = 'Step 3: Delivery Details';
-$_['text_checkout_shipping_method']  = 'Step 4: Delivery Method';
-$_['text_checkout_payment_method']   = 'Step 5: Payment Method';
-$_['text_checkout_confirm']          = 'Step 6: Confirm Order';
-$_['text_modify']                    = 'Modify &raquo;';
-$_['text_new_customer']              = 'New Customer';
-$_['text_returning_customer']        = 'Returning Customer';
-$_['text_checkout']                  = 'Checkout Options:';
-$_['text_i_am_returning_customer']   = 'I am a returning customer';
-$_['text_register']                  = 'Register Account';
-$_['text_guest']                     = 'Guest Checkout';
+$_['text_cart']                      = 'Carrito de compra';
+$_['text_checkout_option']           = 'Paso 1: Cuenta';
+$_['text_checkout_account']          = 'Paso 2: Información de Facturación';
+$_['text_checkout_payment_address']  = 'Paso 2: Dirección de Facturación';
+$_['text_checkout_shipping_address'] = 'Paso 3: Dirección de Envío';
+$_['text_checkout_shipping_method']  = 'Paso 4: Método de Envío';
+$_['text_checkout_payment_method']   = 'Paso 5: Método de Pago';
+$_['text_checkout_confirm']          = 'Paso 6: Confirmar Orden';
+$_['text_modify']                    = 'Modificar &raquo;';
+$_['text_new_customer']              = 'Nuevo Cliente';
+$_['text_returning_customer']        = 'Cliente registrado';
+$_['text_checkout']                  = 'Opciones de pago:';
+$_['text_i_am_returning_customer']   = 'Soy un usuario registrado';
+$_['text_register']                  = 'Registro';
+$_['text_guest']                     = 'Pago como invitado';
 $_['text_register_account']          = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
 $_['text_forgotten']                 = 'Forgotten Password';
 $_['text_your_details']              = 'Your Personal Details';
