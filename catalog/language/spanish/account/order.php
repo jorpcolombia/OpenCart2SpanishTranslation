@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']         = 'Order History';
+$_['heading_title']         = 'historial de Órdenes';
 
 // Text
-$_['text_account']          = 'Account';
-$_['text_order']            = 'Order Information';
-$_['text_order_detail']     = 'Order Details';
-$_['text_invoice_no']       = 'Invoice No.:';
-$_['text_order_id']         = 'Order ID:';
-$_['text_date_added']       = 'Date Added:';
-$_['text_shipping_address'] = 'Shipping Address';
-$_['text_shipping_method']  = 'Shipping Method:';
-$_['text_payment_address']  = 'Payment Address';
-$_['text_payment_method']   = 'Payment Method:';
-$_['text_comment']          = 'Order Comments';
-$_['text_history']          = 'Order History';
-$_['text_success']          = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_empty']            = 'You have not made any previous orders!';
-$_['text_error']            = 'The order you requested could not be found!';
+$_['text_account']          = 'Cuenta';
+$_['text_order']            = 'Información de Orden';
+$_['text_order_detail']     = 'Detalles de Orden';
+$_['text_invoice_no']       = 'Factura #:';
+$_['text_order_id']         = 'ID de Orden:';
+$_['text_date_added']       = 'Fecha:';
+$_['text_shipping_address'] = 'Dirección de Envío';
+$_['text_shipping_method']  = 'Método de Envío:';
+$_['text_payment_address']  = 'Dirección de Pago';
+$_['text_payment_method']   = 'Método de Pago:';
+$_['text_comment']          = 'Comentarios de Orden';
+$_['text_history']          = 'Historia de Orden';
+$_['text_success']          = 'Ha agregado exitosamente <a href="%s">%s</a> al <a href="%s">Carrito de Compras</a>!';
+$_['text_empty']            = 'No tiene órdenes!';
+$_['text_error']            = 'No se encontró la orden!';
 
 // Column
-$_['column_order_id']       = 'Order ID';
-$_['column_product']        = 'No. of Products';
-$_['column_customer']       = 'Customer';
-$_['column_name']           = 'Product Name';
-$_['column_model']          = 'Model';
-$_['column_quantity']       = 'Quantity';
-$_['column_price']          = 'Price';
+$_['column_order_id']       = 'ID de Orden';
+$_['column_product']        = '# de Productos';
+$_['column_customer']       = 'Cliente';
+$_['column_name']           = 'Producto';
+$_['column_model']          = 'Modelo';
+$_['column_quantity']       = 'Cantidad';
+$_['column_price']          = 'Precio';
 $_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
-$_['column_date_added']     = 'Date Added';
-$_['column_status']         = 'Order Status';
-$_['column_comment']        = 'Comment';
+$_['column_action']         = 'Acción';
+$_['column_date_added']     = 'Fecha';
+$_['column_status']         = 'Estado';
+$_['column_comment']        = 'Comentario';
 
 // Error
-$_['error_reorder']         = '%s is not currently available to be reordered.';
+$_['error_reorder']         = '%s no está disponible para ordenar.';
