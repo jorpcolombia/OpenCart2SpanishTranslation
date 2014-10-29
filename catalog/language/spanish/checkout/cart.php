@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Shopping Cart';
+$_['heading_title']    = 'Carrito de compras';
 
 // Text
 $_['text_success']     = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
@@ -27,16 +27,16 @@ $_['text_payment_description'] 	              = '%s every %d %s(s) for %d paymen
 $_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
 
 // Column
-$_['column_image']          = 'Image';
-$_['column_name']           = 'Product Name';
-$_['column_model']          = 'Model';
-$_['column_quantity']       = 'Quantity';
-$_['column_price']          = 'Unit Price';
+$_['column_image']          = 'Imagen';
+$_['column_name']           = 'Producto';
+$_['column_model']          = 'Modelo';
+$_['column_quantity']       = 'Cantidad';
+$_['column_price']          = 'Precio Unitario';
 $_['column_total']          = 'Total';
 
 // Error
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Minimum order amount for %s is %s!';
-$_['error_required']         = '%s required!';
-$_['error_product']          = 'Warning: There are no products in your cart!';
-$_['error_recurring_required'] = 'Please select a payment recurring!';
+$_['error_stock']            = 'Los productos marcados con *** no están disponibles en la cantidad deseada.';
+$_['error_minimum']          = 'La cantidad mínima de pedido de %s es %s';
+$_['error_required']         = '%s requerido';
+$_['error_product']          = 'Advertencia: No tiene productos en el carrito de compras.';
+$_['error_recurring_required'] = 'Por favor seleccione una recurrencia de pago.';
